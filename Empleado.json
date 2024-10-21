@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Juan",
+        "nivel": "Junior",
+        "edad" : 25,
+        "lenguajes": [".NET", "Php"]
+    },
+    {
+        "nombre": "Carol",
+        "nivel": "Middle",
+        "edad" : 29,
+        "lenguajes": ["REact", "Vue.js"]
+    }
+]

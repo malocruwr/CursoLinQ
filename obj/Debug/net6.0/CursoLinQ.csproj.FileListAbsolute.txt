@@ -1,0 +1,17 @@
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\CursoLinQ.exe
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\CursoLinQ.deps.json
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\CursoLinQ.runtimeconfig.json
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\CursoLinQ.dll
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\CursoLinQ.pdb
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.csproj.AssemblyReference.cache
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.AssemblyInfoInputs.cache
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.AssemblyInfo.cs
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.csproj.CoreCompileInputs.cache
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.dll
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\refint\CursoLinQ.dll
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.pdb
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.genruntimeconfig.cache
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\ref\CursoLinQ.dll
+C:\repo\CursoLinQ\CursoLinQ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\repo\CursoLinQ\CursoLinQ\obj\Debug\net6.0\CursoLinQ.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OSJhZIrYoYDh3wsvO3D5WQ5JN8nNQYK3P3Bbi8TLShvDOrkiCnR0mIy4QlrtExGXGwYZ+wWTW4vC5Brcb2nG3Q==",
+  "success": true,
+  "projectFilePath": "C:\\repo\\CursoLinQ\\CursoLinQ\\CursoLinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manuel.lopezc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
